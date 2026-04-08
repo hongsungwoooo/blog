@@ -3,6 +3,7 @@ layout: post
 title: "미니 PC에 Proxmox 올려서 홈서버 구축한 후기"
 date: 2026-04-08
 categories: [homeserver]
+published: false
 tags: [Proxmox, Virtualization, HomeServer, Ryzen, Network]
 ---
 
