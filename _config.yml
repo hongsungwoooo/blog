@@ -1,0 +1,12 @@
+title: Hong's Blog
+description: Welcome to my blog
+baseurl: "/blog"
+url: "https://hong.github.io"
+theme: minima
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
