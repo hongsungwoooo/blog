@@ -1,7 +1,7 @@
 title: Hong's Blog
 description: Welcome to my blog
 baseurl: "/blog"
-url: "https://hong.github.io"
+url: "https://hongsungwoooo.github.io"
 theme: minima
 permalink: /:year/:month/:day/:title/
 
